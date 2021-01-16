@@ -1,0 +1,68 @@
+recipe_name: Geoff's Ginger Cookies
+yields:
+  servings: 8
+ingredients:
+  - butter:
+      amounts:
+        amount: 55
+        unit: grams
+      notes:
+        - Close to room temperature
+  - bread flour:
+      amounts:
+        amount: 100
+        unit: grams
+      notes:
+        - Bread flour for chew
+  - ground ginger:
+      amounts:
+        amount: 8
+        unit: grams
+  - baking soda:
+      amounts:
+        amount: .5
+        unit: tsp
+  - Molasses:
+      amounts:
+        amount: 45g
+        unit: grams
+      notes:
+        - NOT blackstrap
+  - Lemon zest:
+    amounts:
+      amount: 1
+      unit: item
+  - Egg Yolk:
+    amounts:
+      amount: 1
+  - Allspice:
+      amounts:
+        amount: 2
+        unit: grams
+  - Ginger:
+    amounts:
+      amount: 10
+      unit: grams
+    notes:
+      - Grate with microplane
+  - Crystallized Ginger:
+      amounts:
+        amount: 70
+        unit: grams
+      notes:
+        - Chop into find dice, about rice sized
+  - Brown Sugar:
+      amounts:
+        amount: 40
+        unit: grams
+
+steps:
+  - Mix dry ingredients with spices (flour, ginger, allspice, baking soda)
+  - Cream butter and sugar with mixer paddle
+  - Incorporate molasses, fresh ginger, lemon zest, egg yolk
+  - When a rough dough forms, dump in the crystal ginger and mix as little as possible while distributing the pieces
+  - Cover and refrigerate dough until fully cool (40 F internal)
+  - Preheat oven to 350, divide into 30 gram balls
+  - Coat a glass bottom in sugar, press cookies down until about .5 inch thick
+  - Bake until outer rim begins to firm - the centers should be tender and will cool to be chewy
+  - Let cool completely
