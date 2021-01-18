@@ -1,0 +1,40 @@
+recipe_name: Pizza Dough
+yields:
+  servings: 1
+ingredients:
+  Bread flour:
+    amounts:
+      amount: 150
+      unit: grams
+    notes:
+      - Can go 50/50 on 00 flour to get a little lighter and crisper crust
+  Water:
+    amounts:
+      amount: 105
+      unit: grams
+    notes:
+      - Adjust hydration based on weather.  Hotter days will make a more extensible dough.  Modulate this by 1-2% of flour weight.
+  Salt:
+    amounts:
+      amount: 4
+      unit: grams
+  Olive Oil:
+    amounts:
+      amount: 2.25
+      unit: grams
+  Yeast:
+    amounts:
+      amount: 1
+      unit: grams
+    notes:
+      - SAF instant yeast is by far the best for rising this long in the fridge.
+      - Seriously, go buy SAF.
+
+
+steps:
+  - Combine flour and water in a mixing bowl, autolyse for at least 20 minutes
+  - Add all ingredients to bowl, mix with dough hook for about 7 minutes or dough is smooth and has a good windowpane
+  - Wrap bowl, place in fridge overnight - if making same day, make in the AM and fridge after an hour on the counter or until there is a little poof in the dough
+  - Divide (if making more than one) and shape into a ball any time the day of if made last night or 3 hours prior to cooking, place back in fridge
+  - Depending on how warm the kitchen is, take dough out anywhere 15-45 minutes to rest at room temp
+  - If making more than 4 pizzas, hold later doughs in the fridge to get consistent workability
