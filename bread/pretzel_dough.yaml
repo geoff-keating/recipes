@@ -1,0 +1,39 @@
+recipe_name: Pretzel Dough
+yields:
+  servings: 12
+ingredients:
+  Barley Malt:
+    amounts:
+      amount: 15
+      unit: grams
+    notes:
+      - Brown sugar acceptable sub
+  Bread Flour:
+    amounts:
+      amount: 780
+      unit: grams
+  Salt:
+    amounts:
+      amount: 18
+      unit: grams
+  Yeast:
+    amounts:
+      amount: 18
+      unit: grams
+  Water:
+    amounts:
+      amount: 470
+      unit: grams
+  Lard:
+    amounts:
+      amount: 28
+      unit: grams
+    notes:
+      - Unsalted butter acceptable sub
+
+steps:
+  - Mix all ingredients and knead for 8-10 minutes
+  - Cut dough into 12 pieces and rest
+  - Shape dough when elastic and extensible into pretzels or rolls
+  - Let rise at room temperature for 30 minutes (more if cold) and then refrigerate for at least an hour to overnight
+  - Dip in a lye solution of 5% for 15 seconds, bake 15 minutes
