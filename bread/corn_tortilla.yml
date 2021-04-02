@@ -1,0 +1,22 @@
+recipe_name: Corn Tortillas
+yields:
+  servings: 10
+ingredients:
+  Masa Harina:
+    amounts:
+      amount: 125
+      unit: grams
+  Water:
+    amounts:
+      amount: 175
+      unit: grams
+  Salt:
+    amounts:
+      amount: 1
+      unit: grams
+
+steps:
+  - Mix all ingredients by hand until dough is bouncy and solid
+  - Wrap and let sit to hydrate for 10 minutes
+  - Press and cook on a smoking hot cast iron pan
+  - Place cooked tortillas in a towel wrapped bowl to steam and hold warm
