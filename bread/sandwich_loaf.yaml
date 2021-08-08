@@ -1,0 +1,68 @@
+recipe_name: Sandwich Bread
+yields:
+  servings: 1
+ingredients:
+  Rolled Oats:
+    amounts:
+      amount: 60
+      unit: grams
+  Butter:
+    amounts:
+      amount: 20
+      unit: grams
+  Salt:
+    amounts:
+      amount: 5
+      unit: grams
+  Honey:
+    amounts:
+      amount: 55
+      unit: grams
+  Water:
+    amounts:
+      amount: 240
+      unit: grams
+
+  Starter:
+    amounts:
+      amount: 40
+      unit: grams
+    notes:
+      - Stiff starter (not 100%).  If not using, add 1/4 cup (50 g) water and a half teaspoon extra of yeast
+
+  Yeast:
+    amounts:
+      amount: 2
+      unit: grams
+    notes:
+      - SAF
+
+  Whole Wheat Flour:
+    amounts:
+      amount: 120
+      unit: grams
+
+  Bread Flour:
+    amounts:
+      amount: 200
+      unit: grams
+
+steps:
+  - Add Oats, Butter, Honey, Boiled Water, and Salt to a mixing bowl and combine
+  - Let mixture sit until safe for yeast (120 F)
+  - Combine starter and yeast with another 20g water
+  - Mix flours together
+  - Mix all ingredients for 5 minutes, transfer to oiled bowl for 1 hour or doubled
+  - Take out of bowl, spread dough and roll it up like a paper towel roll for an even crumb
+  - Proof for 30 minutes or until peeking over the top of a loaf pan
+  - Bake 25-30 minutes at 425 F or until top is thinly crusted and brown
+
+
+
+steps:
+  - Combine flour and water in a mixing bowl, autolyse for at least 20 minutes
+  - Add all ingredients to bowl, mix with dough hook for about 7 minutes or dough is smooth and has a good windowpane
+  - Wrap bowl, place in fridge overnight - if making same day, make in the AM and fridge after an hour on the counter or until there is a little poof in the dough
+  - Divide (if making more than one) and shape into a ball any time the day of if made last night or 3 hours prior to cooking, place back in fridge
+  - Depending on how warm the kitchen is, take dough out anywhere 15-45 minutes to rest at room temp
+  - If making more than 4 pizzas, hold later doughs in the fridge to get consistent workability
