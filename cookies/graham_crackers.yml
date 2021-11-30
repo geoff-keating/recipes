@@ -1,0 +1,44 @@
+recipe_name: Graham Crackers
+yields:
+  servings: 1
+ingredients:
+  - Whole Wheat Flour:
+      amounts:
+        amount: 115
+        unit: grams
+  - Butter:
+      amounts:
+        amount: 50
+        unit: grams
+      notes:
+        - Brought to room temp
+  - Sugar:
+      amounts:
+        amount: 25
+        unit: grams
+  - Baking Powder:
+      amounts:
+        amount: 1
+        unit: tsp
+  - Honey:
+      amounts:
+        amount: 40
+        unit: grams
+  - Milk:
+      amounts:
+        amount: 15
+        unit: grams
+  - Salt:
+      amounts:
+        amount: 1/4
+        unit: tsp
+
+steps:
+  - Cream butter and sugar together until light
+  - Add dry ingredients until just incorporated
+  - Refrigerate, wrapped, for 1 hour or longer
+  - Roll thin - 1/16 of an inch on parchment with flour to keep from sticking
+  - Preheat the oven to 350
+  - Bake for 10 minutes, cut shapes
+  - bake on 300 for another 10 minutes, rotating pan as needed
+  - Turn off the oven and leave the cookeis in a warm oven until crisp
